@@ -16,7 +16,7 @@ I'm **Umer Rehman**, a passionate Computer Science student at the **University o
 ### 🌐 My Projects:
 - 🧠 **AI Innovations**: Exploring personal projects in artificial intelligence, including deep learning and NLP.
 - 🏥 **Oncology Quest**: Developer and maintainer of a **Web App** designed to assist medical oncology students.
-- 🌟 **Personal Portfolio**: Check out my portfolio website, built with **SvelteKit** [🌐 here](#).
+- 🌟 **Personal Portfolio**: Check out my portfolio website, built with **** [🌐 here](#).
 
 ---
 
