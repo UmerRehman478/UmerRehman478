@@ -38,25 +38,7 @@ I'm **Umer Rehman**, a passionate Computer Science student at the **University o
 
 ---
 
-### ✨ Fun Facts About Me:
-- 🌟 I’m a **tech enthusiast** with a soft spot for **AI research**.
-- 📖 I’m always on the hunt for **interesting books and research papers**.
-- 🌍 Future goal: To contribute to **open-source AI projects** and make an impact in the tech community.
-
----
-
-### 🌱 Currently Learning:
-- 🧠 **Deep Learning** with TensorFlow and PyTorch.
-- ⚙️ **System Design Principles**.
-- 📊 **Data Science** tools like Pandas and NumPy.
-
----
-
 ### 📫 Get in Touch:
 - 🌐 **[My Portfolio](#)**
 - ✉️ Email: umerrehman478@gmail.com
 - 💼 **[LinkedIn](#)**
-
----
-
-Thanks for stopping by! Let's build something amazing together! 🚀
