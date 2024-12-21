@@ -2,8 +2,8 @@
   <h1>Hi 👋 I'm Umer Rehman</h1>
 </div>
 
-
 💫 About Me:
+---
 I’m Umer Rehman, a third-year Computer Science student at the University of Calgary with a passion for Artificial Intelligence, problem-solving, and building scalable applications. I thrive on exploring innovative technologies and creating impactful solutions.
 
 🌟 **What I'm All About**:
