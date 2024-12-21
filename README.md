@@ -6,21 +6,15 @@
 ---
 I’m Umer Rehman, a third-year Computer Science student at the University of Calgary with a passion for Artificial Intelligence, problem-solving, and building scalable applications. I thrive on exploring innovative technologies and creating impactful solutions.
 
-🌟 **What I'm All About**:
-- 🚀 Building smart and efficient solutions using **AI** and **modern web technologies**.
-- 📚 Constantly learning and improving my skills, from **machine learning algorithms** to **system design**.
-- 🏔️ Exploring Calgary's beautiful landscapes when I’m not coding or studying.
+🚀 What I'm Up To
+---
+🤖 Exploring AWS Technologies AWS-Training
+💻 Building my Portfolio at UofC
 
 🎓 **Class of 2026** | **University of Calgary**
-- Major: **Computer Science**
-- Focus Areas: **AI, Machine Learning, Full-Stack Development**
-
 ---
-
-### 🌐 My Projects:
-- 🧠 **AI Innovations**: Exploring personal projects in artificial intelligence, including deep learning and NLP.
-- 🏥 **Oncology Quest**: Developer and maintainer of a **Web App** designed to assist medical oncology students.
-- 🌟 **Personal Portfolio**: Check out my portfolio website, built with **** [🌐 here](#).
+- Major: **Computer Science**
+- Focus Areas: **AI, Machine Learning, AWS, Full-Stack Development**
 
 ---
 
