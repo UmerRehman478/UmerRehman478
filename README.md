@@ -4,7 +4,7 @@
 
 💫 About Me:
 ---
-I’m Umer Rehman, a third-year Computer Science student at the University of Calgary with a passion for Artificial Intelligence, problem-solving, and building scalable applications. I thrive on exploring innovative technologies and creating impactful solutions.
+I’m Umer Rehman, a third-year Computer Science student at the University of Calgary with a passion for Artificial Intelligence, Cloud Computing (AWS), problem-solving, and building scalable applications. I thrive on exploring innovative technologies and creating impactful solutions.
 
 🚀 What I'm Up To
 ---
