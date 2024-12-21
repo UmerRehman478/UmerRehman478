@@ -1,4 +1,6 @@
-#                                                                                     Hi 👋 I'm Umer Rehman
+<div align="center">
+  <h1>Hi 👋 I'm Umer Rehman</h1>
+</div>
 
 I'm **Umer Rehman**, a passionate Computer Science student at the **University of Calgary**, located in Calgary, Alberta. I'm deeply fascinated by the world of **Artificial Intelligence** and its potential to revolutionize technology and society. I enjoy tackling challenging problems, building interactive and scalable solutions, and exploring innovative technologies.
 
