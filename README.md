@@ -50,6 +50,6 @@ I’m Umer Rehman, a third-year Computer Science student at the University of Ca
 
 
 ### 📫 Get in Touch:
-- 🌐 **[My Portfolio](#)**
-- ✉️ Email: umerrehman478@gmail.com
 - 💼 **[LinkedIn](#)**
+- ✉️ Email: umerrehman478@gmail.com
+- 🌐 **[My Portfolio](#)**
