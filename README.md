@@ -6,10 +6,11 @@
 ---
 I’m Umer Rehman, a third-year Computer Science student at the University of Calgary with a passion for Artificial Intelligence, Cloud Computing (AWS), problem-solving, and building scalable applications. I thrive on exploring innovative technologies and creating impactful solutions.
 
-🚀 What I'm Up To
+## 🚀 What I'm Up To  
+- 🤖 Exploring **AWS Technologies** through AWS Training  
+- 💻 Building my **Portfolio** as a Computer Science student at UofC  
+
 ---
-🤖 Exploring AWS Technologies AWS-Training
-💻 Building my Portfolio at UofC
 
 🎓 **Class of 2026** | **University of Calgary**
 ---
