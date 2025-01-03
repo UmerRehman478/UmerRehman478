@@ -15,7 +15,7 @@ I’m Umer Rehman, a third-year Computer Science student at the University of Ca
 🎓 **Class of 2026** | **University of Calgary**
 ---
 - Major: **Computer Science**
-- Focus Areas: **AI, Machine Learning, AWS, Full-Stack Development**
+- Focus Areas: **AWS, AI, Machine Learning, Full-Stack Development**
 
 ---
 
